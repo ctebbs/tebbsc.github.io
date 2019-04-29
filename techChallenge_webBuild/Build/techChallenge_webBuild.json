@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "technicalDogChallenge",
+"dataUrl": "techChallenge_webBuild.data.unityweb",
+"asmCodeUrl": "techChallenge_webBuild.asm.code.unityweb",
+"asmMemoryUrl": "techChallenge_webBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "techChallenge_webBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
